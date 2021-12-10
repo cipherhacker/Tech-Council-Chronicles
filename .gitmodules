@@ -1,0 +1,15 @@
+[submodule "Introduction-to-programming"]
+	path = Introduction-to-programming
+	url = https://github.com/cipherhacker/Introduction-to-programming.git
+[submodule "Cpp-STL-Notes"]
+	path = Cpp-STL-Notes
+	url = https://github.com/cipherhacker/Cpp-STL-Notes
+[submodule "profile"]
+	path = profile
+	url = https://github.com/cipherhacker/profile.git
+[submodule "Graph-notes"]
+	path = Graph-notes
+	url = https://github.com/cipherhacker/Graph-notes.git
+[submodule "Javascript-notes"]
+	path = Javascript-notes
+	url = https://github.com/cipherhacker/Javascript-notes.git
